@@ -1,8 +1,8 @@
 # 📱 Modern Android Clean Architecture with Jetpack Compose ( Project Blueprint )
 
-[![Platform](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRag3uVzTXYjg9Dfc2-runfFiHDYZZLJzsCIA&usqp=CAU)
-[![Kotlin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvj4Bm_NKpiP3q4D-p5lUbXvY2iGEqCAfu2g&usqp=CAU)
-[![Compose](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_zDL-jPFOoj-P_A95lLvI8kLti--D3C9QIGxrPFwWDREb4bDATueNk8&s=10)
+![Platform](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRag3uVzTXYjg9Dfc2-runfFiHDYZZLJzsCIA&usqp=CAU)
+![Kotlin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvj4Bm_NKpiP3q4D-p5lUbXvY2iGEqCAfu2g&usqp=CAU)
+![Compose](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_zDL-jPFOoj-P_A95lLvI8kLti--D3C9QIGxrPFwWDREb4bDATueNk8&s=10)
 
 A modern Android application showcasing Clean Architecture principles, Jetpack Compose UI, and best practices in Android development.
 
