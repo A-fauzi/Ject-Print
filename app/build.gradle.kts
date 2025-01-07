@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.ziax.jectprint"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.ziax.jectprint"
