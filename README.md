@@ -147,7 +147,7 @@ of this software and associated documentation files...
 
 ## ✍️ Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Zi - [@A-fauzi](https://github.com/A-fauzi)
 
 ## 🙏 Acknowledgments
 
