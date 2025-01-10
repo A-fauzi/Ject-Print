@@ -467,8 +467,8 @@ SOFTWARE.
 
 **Zi**
 - GitHub: [@A-fauzi](https://github.com/A-fauzi)
-- LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- LinkedIn: [Akhmad Fauzi](https://www.linkedin.com/in/afauzi97)
+- Email: [Akhmad Fauzi](mailto:akhmadfauzi9797@gmail.com)
 
 ## 🙏 Acknowledgments
 
