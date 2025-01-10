@@ -8,9 +8,9 @@
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-2024.01.00-yellow.svg)](https://developer.android.com/jetpack/compose)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-<p align="center">
+<!-- <p align="center">
   <img src="/api/placeholder/400/200" alt="JectPrint Banner"/>
-</p>
+</p> -->
 
 </div>
 
@@ -82,14 +82,16 @@ JectPrint demonstrates modern Android development practices through a clean, sca
 
 ### Clean Architecture Overview
 
-```mermaid
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({ startOnLoad: true });</script>
+<div class="mermaid">
 graph TD
     A[Presentation Layer] --> B[Domain Layer]
     B --> C[Data Layer]
     A -->|Compose UI| D[User Interface]
     B -->|Use Cases| E[Business Logic]
     C -->|Repository| F[Data Sources]
-```
+</div>
 
 ### Layer Details
 
